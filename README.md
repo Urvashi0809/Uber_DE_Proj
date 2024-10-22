@@ -1,2 +1,2 @@
 # Uber_DE_Proj
-Uber Data Engg Project using AI & Big Query
+Uber Data Engg Project using MAGE AI & Big Query
